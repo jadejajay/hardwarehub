@@ -1,0 +1,58 @@
+{
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "search.exclude": {
+    "yarn.lock": true
+  },
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "editor.formatOnSave": false,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "eslint.format.enable": true,
+  "[javascript][typescript][typescriptreact]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.codeActionsOnSave": [
+      "source.addMissingImports",
+      "source.fixAll.eslint"
+    ]
+  },
+  "[json][jsonc]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.words": [
+    "blurhash",
+    "Colours",
+    "Decore",
+    "elavation",
+    "Flashlist",
+    "IBAIS",
+    "insta",
+    "Ionicons",
+    "Itempart",
+    "Lato",
+    "mainscreen",
+    "mansonry",
+    "mexcellent",
+    "mysound",
+    "nativewind",
+    "Obytes",
+    "obytesapp",
+    "pdfview",
+    "postscreen",
+    "preinstall",
+    "Pressable",
+    "readmore",
+    "recyclerlistview",
+    "rneui",
+    "tabbar",
+    "viewability",
+    "Viro",
+    "Xcellent",
+    "zustand"
+  ],
+  "i18n-ally.localesPaths": ["src/translations/"],
+  "i18n-ally.keystyle": "nested",
+  "i18n-ally.disabled": false,
+  "AI-Keys.active.provider": "huggingface" // make sure to disable i18n-ally in your global setting and only enable it for such projects
+}

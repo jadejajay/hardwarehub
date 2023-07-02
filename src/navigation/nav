@@ -1,0 +1,42 @@
+=> Onbording
+=> Auth
+============>Login
+=> App
+======>tab
+============>HomeNavigator
+============>home
+===================>Search
+===================>Stories
+===================>Cart
+===================>Purchase
+===================>Contact
+===================>OurServices
+===================>WebView
+===================>HomeStack
+===================>drawer
+==========================>MainScreenView
+==========================>AboutUs
+============>FeedNavigator
+============>feed
+===================>Feed
+===================>PdfView
+===================>Post
+===================>AddPost
+===================>ArView
+===================>Products
+===================>CompanyProfile
+============>SocialNavigator
+===================>Social
+===================>Gallery
+============>ChatNavigator
+============>chat
+===================>ChatList
+===================>ChatPage
+============>AccountsNavigator
+============>accounts
+===================>UserProfileScreen
+===================>Settings
+===================>Saved
+===================>OrderHistory
+===================>Analytics
+===================>Wishlist
